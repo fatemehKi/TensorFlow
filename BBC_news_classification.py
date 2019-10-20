@@ -3,6 +3,7 @@
 Created on Thu Sep 12 10:46:32 2019
 
 @author: fkiaie
+Stop words are defined in a list
 """
 
 import wget
